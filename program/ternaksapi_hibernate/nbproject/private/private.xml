@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Indra%20Semester%208/LabTI/Project/program/ternaksapi_hibernate/src/ternaksapi_hibernate/model/Sapi.java</file>
+            <file>file:/D:/Indra%20Semester%208/LabTI/Project/program/ternaksapi_hibernate/src/ternaksapi_hibernate/dao/SapiDao.java</file>
+            <file>file:/D:/Indra%20Semester%208/LabTI/Project/program/ternaksapi_hibernate/src/ternaksapi_hibernate/dao/SapiDaoImpl.java</file>
+            <file>file:/D:/Indra%20Semester%208/LabTI/Project/program/ternaksapi_hibernate/src/ternaksapi_hibernate/config/HibernateUtil.java</file>
+            <file>file:/D:/Indra%20Semester%208/LabTI/Project/program/ternaksapi_hibernate/src/ternaksapi_hibernate/config/SapiTableModel.java</file>
+            <file>file:/D:/Indra%20Semester%208/LabTI/Project/program/ternaksapi_hibernate/src/ternaksapi_hibernate/view/SapiView.java</file>
+            <file>file:/D:/Indra%20Semester%208/LabTI/Project/program/ternaksapi_hibernate/src/ternaksapi_hibernate/controller/SapiController.java</file>
+            <file>file:/D:/Indra%20Semester%208/LabTI/Project/program/ternaksapi_hibernate/src/hibernate.cfg.xml</file>
+        </group>
+    </open-files>
+</project-private>
