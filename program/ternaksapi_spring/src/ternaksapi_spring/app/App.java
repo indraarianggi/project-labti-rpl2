@@ -1,5 +1,4 @@
 package ternaksapi_spring.app;
-
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import ternaksapi_spring.service.SapiService;

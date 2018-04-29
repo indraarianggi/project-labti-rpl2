@@ -16,7 +16,7 @@ import ternaksapi_spring.model.Sapi;
  *
  * @author indraarianggi
  */
-@Service("BukuService")
+@Service("SapiService")
 @Transactional(readOnly = true)
 public class SapiServiceImpl implements SapiService {
     
